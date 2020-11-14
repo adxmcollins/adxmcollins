@@ -1,6 +1,6 @@
 ### Hey 🤙
 
-Software Engineer specialising in JavaScript and PHP.
+Software Engineer specialising in JavaScript (mainly React) and TypeScript.
 
 - 🧐 Privacy in technology advocate.
 - 💻 Couple of things in the pipeline, will be announcing soon!
